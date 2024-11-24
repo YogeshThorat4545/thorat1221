@@ -1,4 +1,4 @@
 # thorat1221
 this is my first repository
 <br>
-author yogesh thorat
+author by yogesh thorat(or sarthak jadhv)
